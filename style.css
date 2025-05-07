@@ -237,6 +237,24 @@ z-index: 2;
     }
 
     .quote {
-      font-size: 0.9rem;
+      font-size: 1.2rem;
     }
+
+   /*  .title {
+      
+      font-size: 1.2rem;
+    } */
+
+    .countdown-label {
+      font-size: 1.5rem;
+      
+    }
+   
+  
+    .timer {
+      font-size: 1.7rem;
+      
+    }
+
+   
   }
