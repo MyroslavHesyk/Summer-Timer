@@ -11,7 +11,7 @@
     const seconds = Math.floor((diff / 1000) % 60);
 
     document.getElementById("timer").textContent =
-      `${days} дні ${hours} год ${minutes} хв ${seconds} с`;
+      `${days} дн ${hours} год ${minutes} хв ${seconds} с`;
   }
 
   setInterval(updateCountdown, 1000);
